@@ -1,0 +1,4 @@
+/home/frank/software/geant4/corals_sim/build/CMakeFiles/rebuild_cache.dir
+/home/frank/software/geant4/corals_sim/build/CMakeFiles/edit_cache.dir
+/home/frank/software/geant4/corals_sim/build/CMakeFiles/corals_sim.dir
+/home/frank/software/geant4/corals_sim/build/CMakeFiles/corals.dir
